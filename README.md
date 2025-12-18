@@ -2,7 +2,7 @@
 This is a Roblox Module-loader, made to work like the default ServiceProvider,  
 as well as making module managent easier
 
-![ModuleLoader Icon](/Images/ModuleLoader.png)
+<img src="Images/ModuleLoader.png" height="200" width="200"></img>
 
 __This ModuleLoader works like this:__
 
