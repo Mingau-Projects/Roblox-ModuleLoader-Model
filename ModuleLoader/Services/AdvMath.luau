@@ -45,7 +45,7 @@ AdvMath.getAverageValue = function(array: {number}): number
 		
 	end
 	
-	return sum
+	return (sum / #array)
 	
 end
 
